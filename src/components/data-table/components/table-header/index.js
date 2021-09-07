@@ -10,10 +10,10 @@ import {
 
 const headCells = [
   {
-    id: 'description', numeric: false, disablePadding: false, label: 'Descrição',
+    id: 'description', numeric: false, disablePadding: false, label: 'Nome',
   },
   {
-    id: 'value', numeric: true, disablePadding: false, label: 'Valor',
+    id: 'value', numeric: true, disablePadding: false, label: 'Telefone',
   },
 ];
 
